@@ -1,0 +1,14 @@
+#include "main.h"
+
+
+
+void main()
+{
+
+ GPIO_Init();
+
+ //XXXXX
+
+
+
+}
